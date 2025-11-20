@@ -1,3 +1,8 @@
+vless://cf97c9a9-441e-43e1-9bd2-f66a198cd87b@144.31.66.240:443?security=reality&encryption=none&pbk=BAV9Syg0Gh9EpcKqOzxMD7qveljeNp0WqrjJrnQxoQA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=kinopoisk.ru&sid=d61d02c4ce0222e2#usa 🇺🇲
+vless://cf97c9a9-441e-43e1-9bd2-f66a198cd87b@138.124.4.18:443?security=reality&encryption=none&pbk=8gPjqggKyk811tZ6X7EfF9KHXe7BXYRMxKXhXN6jbR4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=820571531cf2108a#Estonia 🇪🇪
+vless://00f02ab2-6f2d-449f-a089-d182a2fac59a@185.235.242.39:443?security=reality&encryption=none&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sun6-21.userapi.com&sid=d8c6b58bcbb0c323#russia 🇷🇺
+
+
 vless://cf97c9a9-441e-43e1-9bd2-f66a198cd87b@95.163.251.134:4249?security=reality&encryption=none&pbk=V-xgtMFjsvrDtv6kpKMwfhhIpFMOzkHmqscS9pO3wy0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=a20d3ed244c76426#PORTAL%20WHITE%20%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation
 vless://cf97c9a9-441e-43e1-9bd2-f66a198cd87b@188.120.234.103:443?security=reality&encryption=none&pbk=H6Ka1r2xZnRf29vhxygofvtwGD2KelEFcYHKXTEt2wk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=d87a6ae332fd4d2d#PORTAL%20WHITE%20%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation
 vless://cf97c9a9-441e-43e1-9bd2-f66a198cd87b@138.124.4.18:443?security=reality&encryption=none&pbk=8gPjqggKyk811tZ6X7EfF9KHXe7BXYRMxKXhXN6jbR4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=820571531cf2108a#PORTAL%20WHITE%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
@@ -45,5 +50,3 @@ vless://cf97c9a9-441e-43e1-9bd2-f66a198cd87b@217.16.25.129:4249?security=reality
 vless://cf97c9a9-441e-43e1-9bd2-f66a198cd87b@84.22.149.180:443?security=reality&encryption=none&pbk=gjM-bk-j-jc8U29JloZhhTHDtc1rKHuXfDlN14YJlzE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=kinopoisk.ru&sid=0758cac678bafff5#PORTAL%20WHITE%20%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation
 vless://cf97c9a9-441e-43e1-9bd2-f66a198cd87b@151.236.93.64:443?security=reality&encryption=none&pbk=m-pkrkLGvZsYGBx63XjK5QCutAOjQRqBBrLnTqMd-FY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sun6-22.userapi.com&sid=d313d191d53151a7#PORTAL%20WHITE%20%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation
 
-vless://fe837fd0-840d-4cee-9334-0dc6c2b15c1c@5.181.20.219:17422?security=reality&encryption=none&pbk=0r5rlmvACX09qUTPuxrbuKWSAn66NnNyHIfIMwalYAA&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=33#Финляндия 🇫🇮
-vless://0c1d6832-6a84-473d-82d2-28e67831d1d6@104.21.13.111:443?path=%2F&security=tls&encryption=none&host=dichs.ir&fp=chrome&type=ws&sni=dichs.ir#США 🇺🇸
