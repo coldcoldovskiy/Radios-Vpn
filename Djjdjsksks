@@ -3,6 +3,8 @@ vless://a9457db5-e0b8-4a86-bb33-957c99b235c0@185.243.99.104:29453?security=reali
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTZWdqOEFUWmdtS2k2RXhtRUZEVU5q@89.185.84.185:443/?outline=1#🇬🇧Великобритания
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3b3o4VmhrWGYyZWJEM2MxaU5HYzBX@81.19.141.45:443/?outline=1#🇩🇪Германия
 vless://Warpi-Free-Vpn-In-GooglePlay@91.98.153.140:443?security=none&encryption=none&headerType=none&type=tcp#🇩🇪германия 2
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.181:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷франция
+vless://638c1918-f6f0-4ecc-85e6-a3ac50ed9c02@157.180.123.25:443?path=/linkws?ed=2560&security=&encryption=none&host=157.180.123.25&type=ws#🇫🇮финляндия
 
 vless://cf97c9a9-441e-43e1-9bd2-f66a198cd87b@95.163.251.134:4249?security=reality&encryption=none&pbk=V-xgtMFjsvrDtv6kpKMwfhhIpFMOzkHmqscS9pO3wy0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=a20d3ed244c76426#🇷🇺Обход 1
 vless://cf97c9a9-441e-43e1-9bd2-f66a198cd87b@188.120.234.103:443?security=reality&encryption=none&pbk=H6Ka1r2xZnRf29vhxygofvtwGD2KelEFcYHKXTEt2wk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=d87a6ae332fd4d2d#🇷🇺Обход 2
